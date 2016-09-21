@@ -1,0 +1,11 @@
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\HuaTest.csprojResolveAssemblyReference.cache
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\huaLibBase.dll
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\huaLibBase.pdb
+E:\华为杯\hua文本提取\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\华为杯\hua文本提取\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\华为杯\hua文本提取\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,17 @@
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文邮件输入提示.exe.config
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文邮件输入提示.exe.manifest
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文邮件输入提示.application
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文邮件输入提示.exe
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文邮件输入提示.pdb
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\huaLibBase.dll
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\huaLib.pdb
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\huaLibBase.pdb
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件书写提示.csprojResolveAssemblyReference.cache
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\单词提示窗口.Form1.resources
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件输入提示.Properties.Resources.resources
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件书写提示.csproj.GenerateResource.Cache
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件输入提示.exe.manifest
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件输入提示.application
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件输入提示.exe
+E:\华为杯\华为智能杯\英文邮件书写提示\obj\x86\Debug\英文邮件输入提示.pdb
+E:\华为杯\华为智能杯\英文邮件书写提示\bin\Debug\英文电子邮件写作助手.exe.config

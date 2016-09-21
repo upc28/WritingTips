@@ -1,0 +1,4 @@
+H:\Cprograminglanguage\VsTest\huaLibrary\huaLibrary\bin\Debug\huaLibrary.dll
+H:\Cprograminglanguage\VsTest\huaLibrary\huaLibrary\bin\Debug\huaLibrary.pdb
+H:\Cprograminglanguage\VsTest\huaLibrary\huaLibrary\obj\Debug\huaLibrary.dll
+H:\Cprograminglanguage\VsTest\huaLibrary\huaLibrary\obj\Debug\huaLibrary.pdb

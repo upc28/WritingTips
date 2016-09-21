@@ -1,0 +1,7 @@
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\bin\Debug\huaLib.dll
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\bin\Debug\huaLib.pdb
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\bin\Debug\huaLibBase.dll
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\bin\Debug\huaLibBase.pdb
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\obj\Debug\huaLib.dll
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\obj\Debug\huaLib.pdb
+H:\Cprograminglanguage\VsTest\huaLib\huaLib\obj\Debug\huaLib.csprojResolveAssemblyReference.cache

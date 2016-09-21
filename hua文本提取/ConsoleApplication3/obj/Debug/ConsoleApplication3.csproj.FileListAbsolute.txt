@@ -1,0 +1,6 @@
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+H:\Cprograminglanguage\VsTest\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
